@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for the due obseruation of fish dayes, suppressing of vnneccessary number of alehouses, and for the better execution of the late acte for punishment of rogues, vagabonds and beggers</title>
+            <title>Proclamations. 1600-01-14</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21943</idno>
+            <idno type="STC">STC 8271</idno>
+            <idno type="STC">ESTC S115550</idno>
+            <idno type="EEBO-CITATION">99850769</idno>
+            <idno type="PROQUEST">99850769</idno>
+            <idno type="VID">15995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:119)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for the due obseruation of fish dayes, suppressing of vnneccessary number of alehouses, and for the better execution of the late acte for punishment of rogues, vagabonds and beggers</title>
+                  <title>Proclamations. 1600-01-14</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1599 [i.e. 1600]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint is from colophon; the year is according to Lady Day dating.</note>
+                  <note>With references to statutes; sheet 3 gives examples how to carry out the provisions of 39. Elizabeth, c.4.--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lent --  England --  Early works to 1800.</term>
+               <term>Rogues and vagabonds --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15995:1"/>
+            <head>❀ By the Queene.</head>
+            <head>¶ A Proclamation for the due obſeruation of Fish dayes, ſuppreſ<g ref="char:EOLhyphen"/>ſing of vnneceſſary number of Alehouſes, and for the better execution of the late acte for punishment of Rogues, Vaga<g ref="char:EOLhyphen"/>bonds and Beggers.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie graciouſly conſidering, the great and manifold in<g ref="char:EOLhyphen"/>conueniences, which dayly increaſe within this her Maieſties Realme, for want of due execution of ſuch good and wholſome Statutes, as haue from time to time bene made, forbidding the eating of fleſh on dayes and times prohibited, whereby Almightie God is iuſtly offended, the prices of victuals are greatly enhaunſed and raiſed, and the whole common wealth of this Realme greatly damnifled, and ſeafaring men and Mariners greatly diminiſhed: And purpoſing the redreſſe and reformation thereof, of her Prince<g ref="char:EOLhyphen"/>ly care for the weale and good of her louing Subiects, willeth and commandeth that all and euery the Noblemen, Knights, Eſquires, and others being of the better ſort of her Highneſſe Subiects, doe from time to time take order that the ſayd Statutes be duely obſerued and kept, within their owne houſes amongſt their families, ſeruants, and followers, whereby others her Highneſſe good and louing Sub<g ref="char:EOLhyphen"/>iects, may be drawen and admoniſhed by their good example, to vſe and keepe the like orders within their ſeuerall houſes and abidings. And further, her Highneſſe ſtraitly chargeth and commandeth, that all and euery Inne keepers, Tauer<g ref="char:EOLhyphen"/>ners, Alehouſe keepers, and other perſons whatſoeuer, vſing any trade of victualling within this Realme, ſhall with all conuenient ſpeed enter into Bond with ſufficient ſureties to her Maieſtie, the ſureties to be bound in tenne pounds a piece, and the parties in the ſumme of twentie pounds, That they ſhall not willingly permit or ſuffer any kind of fleſh to be eaten in their houſes by any perſon, vpon any dayes prohibited by the ſayd Statutes. And that the Iuſtices of Peace, within all and euery the Counties, Cities, Boroughs, Townes, place and places of this Realme, doe with all conue<g ref="char:EOLhyphen"/>nient ſpeede within their ſeuerall limits, take the ſaid Bonds, of all and euery ſuch perſons accordingly. And that the ſaid Iuſtices of Peace doe from time to time certifie and returne all and euery ſuch Bonds, ſo by them, or any of them ta<g ref="char:EOLhyphen"/>ken, as is aforeſaide, vnto the Barons of her Highneſſe Exchequer within the ſpace of three Moneths after the taking thereof, to the ende that the ſame Bonds may remaine in the cuſtodie of ſuch Officer, as by the ſaid Barons of her High<g ref="char:EOLhyphen"/>neſſe Court of Exchequer ſhall be aſſigned and appointed to keepe the ſame. And that the ſaid Iuſtices of Peace and eue<g ref="char:EOLhyphen"/>ry of them ſhal from time to time do their beſt indeuours, to learne and find out whether any of the ſaid perſons ſo bound before them ſhall not obſerue the condition of their bonds. And if they ſhall find any ſuch Bond to be forfaite, that they doe with all conuenient ſpeede certifie the ſaid forfaiture, and the cauſe thereof vnto the ſaid Barons, to the end that ſuch courſe may forthwith be taken for the leuying of the ſame forfaitures, as to Iuſtice appertaineth, and is agreeable to the courſe of our ſaid Court of Exchequer. And her Highneſſe further willeth and commandeth, that if any Inne keeper, Tauerner, Alehouſe keeper, or other Victualler whatſoeuer, within this her Highneſſe Realme, ſhall refuſe to enter in<g ref="char:EOLhyphen"/>to ſuch Bond, as is aforeſaid, that then and from thenceforth, all and euery ſuch Inne keeper, Tauerner, Alehouſe keeper, and other Victualler, ſo refuſing to enter into Bond, as is aforeſaid, ſhall be debarred and reſtrained from keeping of any ſuch Inne, Tauerne, Alehouſe, or other victualling houſe, vntill ſuch time as he ſhall haue entred into ſuch Bond with Sureties, as is before. And further, her Highneſſe ſtraitly chargeth and commandeth, that no Butcher bee ſuffered or licenced to kill any fleſh to be ſpent in the time of Lent, but onely in great Cities, that be Counties of themſelues, and in thoſe ſuch onely, as ſhall be very fit and needfull to ſerue to make prouiſion for the ſicke and weake, and as ſhall be lawful<g ref="char:EOLhyphen"/>ly licenced, without giuing any thing for any ſuch licence or ſufferance to any perſon or perſons directly or indirectly. And for that the vnneceſſary numbers of Alehouſes, and victualling houſes, ſince God hath bleſſed this Realme with a competent ſtore of corne, haue bene ſuffered greatly to increaſe, ſeeing they are the occaſions not only of great waſte, ryot, and expences, whereby an vnlooked for dearth may eftſoones fall on this Realme, but alſo of infinite idleneſſe, thefts, and other inconueniences and diſorders within the ſame, to the great diſpleaſure of Almightie God, and ruine of the common Weale of this Realme: Therefore her Maieſtie ſtraightly chargeth and commandeth, that the ſayd vnneceſſa<g ref="char:EOLhyphen"/>rie
+<pb facs="tcp:15995:2" rendition="simple:additions"/>and ſuperfluous number of Alehouſes and victualing houſes, be from time to time kept downe and reſtreined by the Iuſtices of the Peace, and other her Highnes Officers to whom it ſhall appertaine. And that no Alehouſes nor victu<g ref="char:EOLhyphen"/>alling houſes be ſuffered, but ſuch as ſhall be very needfull, and the ſame to be onely in fit and needefull places, and to be kept by ſuch perſons as ſhalbe thought very fit for the ſame, and which ſhall be carefull to obſerue all ſuch good orders, as are or ſhall be preſcribed vnto them.</p>
+            <p>And where alſo diuers good Lawes and Statutes haue beene lately made for the ſuppreſſing and puniſhment of Rogues and Vagabonds, wandring vp and down this Realme idlely and inſolently, to the great offence of Almightie God, and of her Maieſtie, and of all honeſt and well diſpoſed ſubiects, and to the great preiudice of this whole common weale, which Lawes and Statutes, ſo long as by the good and faithfull care and diligence of her Highnes Iuſtices of Peace &amp; other inferior Officers they were duely and carefully purſued and executed, the ſayd Rogues and Vagabonds in many places for a while were greatly diminiſhed, and idleneſſe, thefts, and other inſolencies and diſorders very much auoyded, and the wealth and happineſſe of this Realme were likely thereby to haue increaſed and growen more abun<g ref="char:EOLhyphen"/>dant: But when and as ſoone as, through the negligence and remiſneſſe of the ſayd Iuſtices and other Officers, the ſayde Lawes and Statutes were not put in due execution, many great enormities and diſorders began foorthwith to trouble and incumber the happie, quiet and good gouernment of this Realme, which are likely daily more and more to increaſe and grow if ſome ſpeedie remedy be not applied to reforme and redreſſe the ſame. In conſideration whereof her Maieſtie doth ſtraightly charge and command all and euery the high Conſtables, and other the head Officers of euery Hundred, Wapentake, precinct and libertie within this Realme, that they and euery of them, once in euery moneth doe call before them the inferior Officers within the ſaid Hundred, Wapentake, and Libertie, and to inquire, know, and vnderſtand, how the ſame Lawes and Statutes haue bene obſerued within their ſeueral iuriſdictions, and in whome any default hath bene that the ſame haue not bene obſerued: And that the Iuſtices of the Peace of euery limit, once eue<g ref="char:EOLhyphen"/>ry ſixe weekes take a like account of the head Conſtables, and other chiefe Officers within their ſeueral limits, how the premiſſes haue bene obſerued, and in whom any default or negligence hath bene, and that thereupon they bee admoni<g ref="char:EOLhyphen"/>ſhed carefully to ſee to the due and ſpeedy puniſhment of the offenders therein according to the lawes. And further her Maieſty willeth and requireth all Iuſtices of peace, to whoſe truſt and care her Highneſſe hath, and doth chiefly commit the execution of euery part of this her Proclamation, that they and euery of them doe faithfully, diligently, and effectu<g ref="char:EOLhyphen"/>ally demeane themſelues in the due performance therof in euery degree according to the confidence which her Highnes repoſeth in them in that behalfe. Otherwiſe, her Highneſſe hath giuen expreſſe order and commaundement, that the ſayd Iuſtices, through whoſe negligence, remiſſeneſſe, or conniuency the ſayde offences ſhalbe continued, ſhall be called to anſwere, and giue an account thereof, &amp; receiue ſuch condigne puniſhment for the ſame, as to the quality of ſuch their offence and contempt ſhall appeare moſt fit and conuenient. And to the ende that the premiſes may the better be obſer<g ref="char:EOLhyphen"/>ued and kept, her Maieſtie hath cauſed an abſtract of ſuch Statutes as are thought fit to be put in execution by force of this Proclamation, to be annexed hereunto: willing and commanding that the ſayd abſtract be openly read and publi<g ref="char:EOLhyphen"/>ſhed by the Clerke of the Peace for the time being at euery quarter Seſſions to be holden within this Realme, and once euery quarter at the leaft in euery Pariſh Church by the Parſon, Miniſter or Curate thereof.</p>
+            <closer>
+               <dateline>Giuen at her High<g ref="char:EOLhyphen"/>neſſe Mannor of Richmond <date>the xiiii. day of Ianuary, in the two and fourtieth yeere of her Highneſſe reigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+         <div type="statutes_appended_to_royal_proclamation">
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Anno 5. Reginae. </date>
+                  </dateline>
+               </opener>
+               <head>cap. 5.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F any perſon of what eſtate or degree ſoeuer do within this Realme eate any fleſh vpon any dayes, vſually obſerued as fiſh dayes, doe forfeit three pound for euery time he ſhall offend, or els ſuffer three Moneths cloſe impriſonment without baile or mainpriſe.</p>
+               <p>And euery perſon of what eſtate or degree ſoeuer, in whoſe houſe any ſuch offence ſhall be done, and being priuie or knowing thereof, and not effectually puniſhing or diſcloſing the ſame to ſome publique Officer, hauing authority to puniſh the ſame, for euery ſuch offence to forfeite fortie ſhil<g ref="char:EOLhyphen"/>lings, which forfeits are to be deuided into three equal parts, one part to the vſe of her Maieſtie, the ſecond to the vſe of the Informer, the third to the common vſe of the Pariſh where any ſuch offence is committed.</p>
+               <p>No perſon ought to keepe any common Alehouſe, or vſe common ſelling of Ale or Beere, vnleſſe ſuch perſon be admit<g ref="char:EOLhyphen"/>ted thereunto in open Seſſions of the Peace, or els by two Iuſtices of the Peace, whereof the one to bee of the <hi>Quorum,</hi> and be bound by ſurety by recogniſance, againſt the vſing of vnlawfull games, and for the maintenance of good order, vpon the penalty contained in that Statute: this Act doth alſo extend to tippling in Innes by ſuch as are no paſſengers or wayfaring men, and to common ſelling of Ale and Beere by Inholders.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:15995:3" rendition="simple:additions"/>
+               <opener>
+                  <dateline>
+                     <date>Anno 39. Reg. Eliz.</date>
+                  </dateline>
+               </opener>
+               <head>cap. 4.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat Iuſtices of Peace and all other Officers and Miniſters to whom it appertaineth, doe ſee this Act duely and carefully put in execution in all points: for the better effecting whereof, certaine doubts and queſtions which haue ariſen, or may ariſe vpon the generall words of the ſame, are here expoun<g ref="char:EOLhyphen"/>ded and reſolued.</p>
+               <p>A Rogue affirmeth that he was borne in ſuch a Towne in ſuch a Countie, He ought to bee ſent thi<g ref="char:EOLhyphen"/>ther, if it may not otherwiſe appeare hee was borne elſe where. And if hee were not borne there in trueth, he is to be ſayd an incorrigible Rogue, and to be ſent thence to the houſe of Correction in the Countie to which he is ſent. If there be none there, then to the Gaole vntill the next Seſſions, there to be dealt with according to the Statute.</p>
+               <p>If the huſband or wife haue a houſe, and the huſband or wife rogue about, they ought to be ſent to the Towne where that houſe is, and ſo of an Inmate.</p>
+               <p>If the Parents be able to worke, and may haue worke, they are to finde their children by their labour, not the Pariſh. But if they be ouer burthened with children, it ſhall be a very good way to procure ſome of them to be placed Apprentices according to the Statute.</p>
+               <p>The ſame courſe is to be obſerued, if it appeare not where he was borne, if he affirmeth that he was laſt dwelling in ſuch a Towne in ſuch a Countie by the ſpace of a yeere, and was not.</p>
+               <p>The wife and children vnder ſeuen yeeres of age being vagrant, muſt goe and be placed with the huſband. If the huſ<g ref="char:EOLhyphen"/>band be dead, then with the wife where ſhe was borne or dwelt. And the vagrant children aboue ſeuen yeeres of age, muſt be ſent to the place of their birth. And if after the vagrant Parents with their children vnder ſeuen yeeres be pla<g ref="char:EOLhyphen"/>ced at the place of the birth of the Parents, or at their place of laſt dwelling, as the caſe ſhall fall out, If after the Pa<g ref="char:EOLhyphen"/>rents or either of them dye or runne away, yet the children once ſetled muſt remaine there ſtill, and not be ſent to their place of birth, though after they growe aboue the age of ſeuen yeeres.</p>
+               <p>The Rogue whoſe place of birth or dwelling cannot be knowen, hath wife and children vnder ſeuen yeres of age, they muſt goe with the huſband to the place where they were laſt wilfully ſuffered to paſſe without puniſhment, where the children muſt be relieued by the worke of their Parents, though the Parents be committed to the houſe of Correction.</p>
+               <p>If any trauell with their children through a Towne not being Rogues, and the Father or Mother dye or runne a<g ref="char:EOLhyphen"/>way, the Towne is not bound to keepe them where they dye, nor to ſend them away but in charitie, except they become wandring beggers.</p>
+               <p>The wife being a vagrant Rogue ought to be ſent to the huſband, though he be but a ſeruant in another Towne.</p>
+               <p>Such perſons as be of any Pariſh and haue able bodyes to worke, and bee no wanderers abroad out of the Pariſh though they refuſe to worke at ſuch wages as is taxed or commonly giuen in theſe parts, are notwithſtanding not to be ſent to their place of Birth or laſt dwelling by the ſpace of a yeere, but to the houſe of correction, vpon conſideration had of both the Statutes of the poore and Rogues, But if they haue any lawfull meanes to liue by though they be of able bo<g ref="char:EOLhyphen"/>dies and refuſe to worke, yet are they not to be ſent to the houſe of Correction.</p>
+               <p>No man is to be put out of the Towne where he dwelles, nor to be ſent to their place of birth or laſt habitation, but a vagrant Rogue, nor to be found by the Towne except he be impotent, but ought to ſet himſelf to labour if he be able: And the Ouerſeers muſt ſet him to labour, if he can get no labour, And ſo of them that haue or ſhall haue houſes when their eſtates be expired, And ſeruants whoſe times of ſeruices are ended though they cannot get houſes, for they muſt prouide themſelues houſes anew if they be not impotent.</p>
+               <p>Such as will put any out of the Pariſh that be not to be put out, this is againſt the Statute concerning the reliefe of the poore, and finable, And if any haue bene ſo ſent, they may be ſent backe againe.</p>
+               <p>If any be ſent to a towne, whereto he ought to be ſent, and is refuſed being a ſturdy, or an impotent Rogue, the per<g ref="char:EOLhyphen"/>ſons refuſing ſhal forfeit v. li. And he that is ſo to be ſent, is to be offered to the Church wardens and Ouerſeers.</p>
+               <p>To ſend the Rogues by a generall Paſport, without conueying them from Pariſh to Pariſh, is a let to the conuey<g ref="char:EOLhyphen"/>ing of Rogues according to the Statute, and ſo a forfeiture of v. li. vpon them, And to goe with ſuch a Paſport, is ſtill to continue a Rogue to be puniſhed by whipping.</p>
+               <p>A Towne will not receiue a Rogue, to conuey him to the place where he was borne or dwelt, This is a forfeiture of v. li. in the Officers that ſhould receiue that partie, to conuey him or her ouer.</p>
+               <p>None ought to be ſuffered to take Reliefe at any mans dore, though within the ſame Pariſh, vnleſſe it be by the or<g ref="char:EOLhyphen"/>der of the Ouerſeers according to the Statute, neither may any be ſuffered to begge by the high wayes, though in their owne Pariſh.</p>
+               <p>Parents, within this word is included, a Father, or a Grandfather, Mother, or Grandmother.</p>
+               <p>Children, within this word is included, any Childe, or Grandchilde being able.</p>
+               <p>Parſons, or Vicars, &amp;c. bee bound to the Reliefe of the poore, aſwell as others, being inhabiting in the Pariſh as an Inhabitant.</p>
+               <p>Euery one that hath Tithes impropriate, Cole mines, or Lands in manuell occupation, &amp;c. is chargeable, and ſo for ſuch as haue ſalable Woods proportioning the ſame to an Annuall benefit.</p>
+               <p>If there be but one Churchwarden, he ſufficeth with the other foure Ouerſeers.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❀ Imprinted at London by Robert Barker, Printer to the Queenes moſt excellent Maieſtie. 1599.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
